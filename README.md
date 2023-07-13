@@ -11,10 +11,14 @@
 - <b>Vulnerability assessment</b>
   - [Conduct a vulnerability assessment](https://github.com/Daron-Martin/Conduct-a-vulnerability-assessment)
 - <b>incident handler's journal</b>
-  - [Incident handler's journal entry](https://github.com/Daron-Martin/Documenting-incidents-with-an-incident-handler-s-journal-)
+  - [Incident handler's journal entry](https://www.coursera.org/account/accomplishments/specialization/certificate/2GUNAULWGVRU)
 
+<h2>⚡Certifications:</h2>
 
-
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DR4SVACGX3YL)
+- [Google IT supoort Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/2GUNAULWGVRU)
+- [Intro To Cybersecurity](https://www.credly.com/badges/2aa5f688-d9dc-4fa4-ac11-527f6c79b117/linked_in_profile)
+- [Networking Basics](https://www.credly.com/badges/7da66032-76f2-4fe3-bacf-ff419deeb1a2/linked_in_profile)
 <h2> 🤳 Connect with me:</h2>
 
 
