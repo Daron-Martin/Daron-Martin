@@ -13,7 +13,7 @@
 - <b>Incident handler's journal</b>
   - [Incident handler's journal entry](https://www.coursera.org/account/accomplishments/specialization/certificate/2GUNAULWGVRU)
 - <b>Configuring a firewall</b>
- - [Configuring a firewall (kali linux)](https://github.com/Daron-Martin/Configuring-a-Firewall)
+  - [Configuring a firewall (kali linux)](https://github.com/Daron-Martin/Configuring-a-Firewall)
 
 <h2>⚡Certifications:</h2>
 
