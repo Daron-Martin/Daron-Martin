@@ -10,8 +10,10 @@
   - [Nist cybersecurity framework security incident response](https://github.com/Daron-Martin/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident)
 - <b>Vulnerability assessment</b>
   - [Conduct a vulnerability assessment](https://github.com/Daron-Martin/Conduct-a-vulnerability-assessment)
-- <b>incident handler's journal</b>
+- <b>Incident handler's journal</b>
   - [Incident handler's journal entry](https://www.coursera.org/account/accomplishments/specialization/certificate/2GUNAULWGVRU)
+- <b>Configuring a firewall</b>
+ - [Configuring a firewall (kali linux)](https://github.com/Daron-Martin/Configuring-a-Firewall)
 
 <h2>⚡Certifications:</h2>
 
