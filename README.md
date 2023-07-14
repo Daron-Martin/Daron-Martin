@@ -11,7 +11,7 @@
 - <b>Vulnerability assessment</b>
   - [Conduct a vulnerability assessment](https://github.com/Daron-Martin/Conduct-a-vulnerability-assessment)
 - <b>Incident handler's journal</b>
-  - [Incident handler's journal entry](https://www.coursera.org/account/accomplishments/specialization/certificate/2GUNAULWGVRU)
+  - [Incident handler's journal entry](https://github.com/Daron-Martin/Documenting-incidents-with-an-incident-handler-s-journal-)
 - <b>Configuring a firewall</b>
   - [Configuring a firewall (kali linux)](https://github.com/Daron-Martin/Configuring-a-Firewall)
 
