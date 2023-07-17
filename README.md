@@ -8,7 +8,7 @@
   - [Security audit (Botium Toys)](https://github.com/Daron-Martin/Conducting-a-security-audit) 
 - <b>Nist cybersecurity framework security incident response</b>
   - [Nist cybersecurity framework security incident response](https://github.com/Daron-Martin/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident)
-- <b>Vulnerability assessment</b>
+- <b>Vulnerability assessment/scans</b>
   - [Conduct a vulnerability assessment](https://github.com/Daron-Martin/Conduct-a-vulnerability-assessment)
   - [Analyzing a Credentialed Vulnerability Scan](https://github.com/Daron-Martin/Analyzing-a-Credentialed-Vulnerability-Scan-/blob/main/README.md)
 - <b>Incident handler's journal</b>
