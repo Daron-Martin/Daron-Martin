@@ -4,6 +4,8 @@
 
 - <b>Professional statement</b>
   - [Writing a professional statement](https://github.com/Daron-Martin/Drafting-a-professional-statement)
+- <b>Scanning and Identifying Network Nodes</b>
+  - [Scanning and Identifying Network Nodes](https://github.com/Daron-Martin/Scanning-and-Identifying-Network-Nodes)
 - <b>Conducting a security audit</b>
   - [Security audit (Botium Toys)](https://github.com/Daron-Martin/Conducting-a-security-audit) 
 - <b>Nist cybersecurity framework security incident response</b>
