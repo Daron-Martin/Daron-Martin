@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daron! <a href="https://www.linkedin.com/in/daronmartin/">Cybersecurity Student</a>
+<h1>Hi, I'm Daron! <a href="https://www.linkedin.com/in/daronmartin/">AWS Cloud Student</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
